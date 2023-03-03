@@ -4,7 +4,7 @@ Este proyecto fue creado con `REACT` [Create React App](https://github.com/faceb
 
 ## Clonar respositorio
 
-git clone `https://github.com/adilmarruiz/ardevtest`
+$ git clone `https://github.com/adilmarruiz/ardevtest`
 
 ### `npm install`
 
